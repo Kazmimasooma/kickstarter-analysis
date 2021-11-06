@@ -31,5 +31,5 @@ The Limitations of the data set was it was really big to anaylze, there were so 
 ## Recomendations: 
 
 The other possible tables or graphs that we could create was of filtering the countries and getting their percentage for successful and failed plays. We only focused on US and GB. there were other countries to where we can focus and get the results for the anaylsis. 
-
+ 
 
